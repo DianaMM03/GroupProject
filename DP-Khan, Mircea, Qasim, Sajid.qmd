@@ -1,0 +1,38 @@
+---
+title: "DP-Khan, Mircea, Qasim, Sajid"
+author: "Khan, Mircea, Qasim, Sajid"
+format: html
+editor: visual
+---
+
+## Main Hypothesis
+
+#Hypotheses
+
+Increased drought level can retard the growth of *Oryza sativa* and *Setaria viridis*
+
+#Objectives
+
+1.  Check the response of drought in crops and weeds.
+
+2.  Among rice and *Setaria sp.*, which species is more susceptible to drought?
+
+3.  Comparison between the two species
+
+    #in Quarto there is a tool to make a graph like "A-\>B-\>C\<-\>D" or smth like this
+
+#Analyses needed or intended
+
+1.  Species, Treatment, (+-date 1, date 2, etc. ), Plant height, root length, nr leaves, nr branches, substrate moisture, fresh weight root, fresh weight shoot, water content root, water content shoot, difference in height, growth rate
+2.  Descriptive statistics
+3.  One way ANOVA: Between Control and Treatment/species/parameter
+4.  Two way ANOVA: Species x Treatment
+5.  Multivariate analysis: Pearson correlation, Heatmap, PCA,
+
+\_\_\_\_\_\_species\_\_\_\_\_ID/abbrev\_\_\_\_\_treatment\_\_\_\_\_+-date\_\_\_\_\_v5\_\_\_\_\_v6
+
+obs1\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Sv_c
+
+obs2
+
+obs3
